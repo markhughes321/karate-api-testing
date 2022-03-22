@@ -1,0 +1,21 @@
+{
+  "id": '#notnull',
+  "artists": '#notnull',
+  "attribution": '#ignore',
+  "categories": '#notnull',
+  "contentLang": '#ignore',
+  "description": '#notnull',
+  "domain": '#notnull',
+  "favicon": '#ignore',
+  "geotag": '#ignore',
+  "imageUrl": '#ignore',
+  "published": true,
+  "publishDate": '#notnull',
+  "tags": '#notnull',
+  "title": '#notnull',
+  "url": '#notnull',
+  "visibility": '#notnull',
+  "dateCreated": '#notnull',
+  "dateUpdated": '#notnull',
+  "__typename": '#notnull'
+}
